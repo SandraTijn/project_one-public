@@ -1,9 +1,2 @@
 # MailBuddy
-
-**VOORNAAM NAAM:** Tijn Sandra
-
-**Sparringpartner:** Niels Ribbens
-
-**Projectsamenvatting in max 10 woorden:** Slimme brievenbus
-
-**Projecttitel:** MailBuddy
+This is a re-upload of my original source code. Original repository was under the Howest-MCT organization, and has been made private.
